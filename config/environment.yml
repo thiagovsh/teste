@@ -1,0 +1,14 @@
+  homolog:
+   home: "http://a.testaddressbook.com"
+   signup: "http://a.testaddressbook.com/sign_up"
+  
+  
+  # dev:
+  #  home: "http://a.testaddressbook.com/sign_up"
+
+# array = [1, 3, 4, 7 ,5]
+
+# hash = {
+#   gato: 12, 
+#   dog: 9, 
+#   nomes: ["simba", "frida"]}

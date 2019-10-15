@@ -1,0 +1,12 @@
+#Perfis Reports
+default: --no-source --color --format pretty
+report_jenkins: -f json -o report/report_jenkins.json
+report_html: -f html -o report/report.html
+
+#Perfis de Execução Navegadores e Headless
+chrome: BROWSER=chrome
+ie: BROWSER=ie
+firefox: BROWSER=firefox
+poltergeist: BROWSER=poltergeist_debug
+headless: BROWSER=chrome_headless
+
